@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CafeLiterario/1.0.0": {
+        "runtime": {
+          "CafeLiterario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CafeLiterario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

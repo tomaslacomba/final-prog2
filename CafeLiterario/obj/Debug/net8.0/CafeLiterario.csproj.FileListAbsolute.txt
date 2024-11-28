@@ -1,0 +1,5 @@
+C:\Users\tlacomba\Desktop\Final-Prog2\CafeLiterario\obj\Debug\net8.0\CafeLiterario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tlacomba\Desktop\Final-Prog2\CafeLiterario\obj\Debug\net8.0\CafeLiterario.AssemblyInfoInputs.cache
+C:\Users\tlacomba\Desktop\Final-Prog2\CafeLiterario\obj\Debug\net8.0\CafeLiterario.AssemblyInfo.cs
+C:\Users\tlacomba\Desktop\Final-Prog2\CafeLiterario\obj\Debug\net8.0\CafeLiterario.csproj.CoreCompileInputs.cache
+C:\Users\tlacomba\Desktop\Final-Prog2\CafeLiterario\obj\Debug\net8.0\CafeLiterario.sourcelink.json

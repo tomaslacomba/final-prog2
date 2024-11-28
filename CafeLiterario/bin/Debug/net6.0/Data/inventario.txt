@@ -1,0 +1,3 @@
+Expresso,Café,1200,300
+Clean Code,Libro,2500,25
+Lemon Pie,Postre,1000,120
